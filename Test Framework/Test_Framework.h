@@ -15,4 +15,6 @@ FOUNDATION_EXPORT const unsigned char Test_FrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Test_Framework/PublicHeader.h>
 
+#import <Test_Framework/KFCalculator.h>
+
 
