@@ -80,7 +80,7 @@ spec.osx.deployment_target = "10.15"
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :path => '.' }
+  spec.source       = { :git => "https://github.com/kjf3006/testframework", :tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
