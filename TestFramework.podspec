@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TestFramework"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "This is a short description of the Framework."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ spec.osx.deployment_target = "10.15"
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/kjf3006/testframework.git", :tag => "0.0.1" }
+  spec.source       = { :git => "https://github.com/kjf3006/testframework.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
